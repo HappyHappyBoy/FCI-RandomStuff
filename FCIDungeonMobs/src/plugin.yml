@@ -1,0 +1,8 @@
+name: FCIDungeonMobs
+version: 1.0
+author: TeamFCI
+
+main: de.teamfci.dungeonmobs.DungeonMobs
+commands:
+  dungeonmobs:
+    description: DungeonMobs Main Command
